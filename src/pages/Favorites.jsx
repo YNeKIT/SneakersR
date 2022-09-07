@@ -1,5 +1,5 @@
 import Card from "../components/Card";
-
+import React from 'react';
 
 function Favorites({items, onAddToFavorite}) {
 
